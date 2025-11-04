@@ -1,51 +1,26 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+Projeto Extremamente Aesthetic
+📒 Descrição
 
-## 🚀 Introdução
+Um experimento visual e interativo criado para explorar o equilíbrio entre tecnologia e estética. O projeto combina elementos de design minimalista com inteligência artificial para gerar composições únicas a cada execução.
 
-> Woooow! Look at this 👀
+🤖 Tecnologias Utilizadas
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+ChatGPT (para geração de texto e descrição conceitual)
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+DALL·E (para criação das imagens estéticas)
 
-### Objetivos
+Figma (para montagem e refinamento visual)
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+Canva (para ajustes finais e tipografia)
 
-### Template
+🧐 Processo de Criação
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Comecei definindo o conceito visual e emocional do projeto — algo calmo, elegante e com cores suaves. Usei o ChatGPT para gerar descrições poéticas e ideias de layout. Em seguida, utilizei o DALL·E para produzir imagens com base nessas descrições. Por fim, refinei tudo no Figma, buscando harmonia entre tipografia, cor e composição.
 
-## 📒 Descrição
-Breve descrição do seu projeto
+🚀 Resultados
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+O resultado é uma série de composições visuais com frases e paletas inspiradas em estética “clean dreamcore”, perfeitas para portfólios ou redes sociais.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+💭 Reflexão
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Criar algo “natty” com IA foi um desafio curioso: é preciso ensinar a máquina o que é sensibilidade estética — algo que muitas vezes nasce da imperfeição humana.
